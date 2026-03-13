@@ -1,4 +1,4 @@
-# Codelab — Real-Time Collaborative IDE
+# CodeLab — Real-Time Collaborative IDE
 
 > **Code Together. Ship Faster. Build Smarter.**
 
