@@ -15,7 +15,7 @@ Codelab is a browser-based collaborative coding environment where teams can writ
 - **Git operation notifications** broadcast to all room members
 
 ### 🤖 AI Coding Assistant
-- Powered by **Google Gemini 1.5 Flash**
+- Powered by **Google Gemini 2.5 Flash**
 - Context-aware — the AI automatically sees your current code file
 - Multi-turn conversation history (last 10 messages retained)
 - Ask for bug fixes, explanations, optimizations, or new features
@@ -59,7 +59,7 @@ Codelab is a browser-based collaborative coding environment where teams can writ
 |---|---|
 | Backend | Python 3, Flask, Flask-SocketIO |
 | Real-time | Socket.IO (WebSockets, threading mode) |
-| AI | Google Gemini 1.5 Flash (`google-generativeai`) |
+| AI | Google Gemini 2.5 Flash (`google-generativeai`) |
 | Auth | PyJWT, bcrypt |
 | Storage | Redis + in-memory fallback |
 | Frontend | Vanilla HTML/CSS/JS, CodeMirror 5 |
