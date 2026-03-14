@@ -81,7 +81,7 @@ Codelab is a browser-based collaborative coding environment where teams can writ
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/codesync.git
+git clone https://github.com/AryaLolusare2712/CodeLab.git
 cd codesync
 ```
 
@@ -184,7 +184,7 @@ codesync/
 | Variable | Default | Description |
 |---|---|---|
 | `GOOGLE_API_KEY` | *(required for AI)* | Google Gemini API key |
-| `JWT_SECRET` | `codesync-dev-secret` | Secret for signing JWT tokens |
+| `JWT_SECRET` | `CodeLab-dev-secret` | Secret for signing JWT tokens |
 | `REDIS_URL` | `redis://localhost:6379/0` | Redis connection URL |
 | `EXEC_TIMEOUT` | `5` | Max seconds for code execution |
 | `PORT` | `5000` | Server port (auto-increments if busy) |
